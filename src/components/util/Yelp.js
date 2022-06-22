@@ -1,4 +1,4 @@
-import { apiKey } from '../../../const';
+import apiKey from './const';
 
 
 const Yelp = {

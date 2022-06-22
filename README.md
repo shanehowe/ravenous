@@ -2,7 +2,8 @@
 
 * To use this web app please visit https://cors-anywhere.herokuapp.com/corsdemo
 * Click request temporary access to demo server
-* Return to and search!
+* Then visit https://shanehowe.github.io/ravenous/
+* Search using the input fields and clicking the lets go button 
 
 # Yelp like clone using React
 

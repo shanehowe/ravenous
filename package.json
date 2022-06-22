@@ -1,5 +1,5 @@
 {
-  "homepage": "http://shanehowe.github.io/ravenous",
+  "homepage": "https://shanehowe.github.io/ravenous",
   "name": "ravenous-s",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +14,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeplpoy": "npm run build",
     "deploy": "gh-pages -d build",
+    "predeplpoy": "npm run build",
+    
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
